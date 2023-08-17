@@ -112,7 +112,7 @@ input[type=submit] {
 
 </style>
 </head>
-<body style="background-image: url('sgpawall.jpeg'); text-align: center;">
+<body style="background-color:powderblue; text-align: center;">
 
 <h1 style="font-family: monospace; text-align: center; color: white; font-size: 300%;"><img src="bmsce.png" width="55" height="35"/> SGPA CALCULATOR</h1>
 
