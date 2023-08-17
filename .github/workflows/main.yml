@@ -23,5 +23,5 @@ jobs:
         cd ./CompanionSite/BMSCE_Companion
         # Loop through each frontend file and upload it using curl
         for file in *; do
-          curl --ftp-pasv -T "$file" -u $if0_34806115:$NmjOePTLzNR ftp://ftpupload.net:21/htdocs/
+          curl --ftp-pasv -T "$file" -u $if0_34806115:$NmjOePTLzNR ftp://ftp.infinityfree.com:21/htdocs/
         done
