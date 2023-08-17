@@ -24,5 +24,5 @@ jobs:
         # Loop through each frontend file and upload it using curl
         for file in *; do
           # Modify the target directory to match your server structure
-          curl --ftp-pasv -T "$file" -u $if0_34806115:$NmjOePTLzNR ftp://ftpupload.net:21/home/vol5_1/infinityfree.com/if0_34806115/
+          curl --ftp-pasv -T "$file" -u $if0_34806115:$NmjOePTLzNR ftp://ftpupload.net:21/home/vol5_1/infinityfree.com/if0_34806115/htdocs
         done
